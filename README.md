@@ -6,12 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=e94560&center=true&vCenter=true&width=780&lines=%24+whoami+%E2%86%92+Cyber+Security+Student;%24+nmap+-sV+target+%E2%86%92+Scanning...;%24+msfconsole+%E2%86%92+Exploit+loaded;%24+cat+flag.txt+%E2%86%92+FLAG_CAPTURED;%24+.%2Frun_ctf.sh+%E2%86%92+Challenge+solved;%24+echo+%22Red+Team+%7C+CTF+%7C+SOC%22" alt="Typing SVG" />
 </a>
 
-<br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=420&pause=1&color=8b949e&center=true&vCenter=true&width=700&lines=%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Initializing+toolkit...;%5B%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Loading+enumeration+modules...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Preparing+payloads...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Tuning+scanners...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Collecting+OSINT...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Mounting+forensics+workspace...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D+Loading+reverse+engineering+suite...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+Calibrating+exploitation+stack...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+Almost+ready...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+Offensive+stack+ready" alt="Animated Loading Bar" />
-</a>
-
 <br/><br/>
 
 <a href="mailto:fa23-bct-026@isbstudent.comsats.edu.pk">
@@ -93,16 +87,13 @@ I actively compete in CTFs, help organize cyber security events, and am currentl
 </tr>
 </table>
 
-```txt
-CTF Focus Areas
+<div align="center">
 
-Web Exploitation       ██████████████░░░░░░   70%
-Privilege Escalation   ████████████░░░░░░░░   60%
-Digital Forensics      ███████████████░░░░░   75%
-OSINT                  █████████████████░░░   85%
-Cryptography           █████████████████░░░   85%
-Binary Exploitation    ██████████░░░░░░░░░░   50%
-```
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1700&pause=700&color=e94560&center=true&vCenter=true&width=760&height=45&lines=CTF%20Focus%20Areas%20%E2%86%92%20Loading%20skill%20matrix...;Web%20Exploitation%20%20%20%20%20%20%20%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D%2070%25;Privilege%20Escalation%20%20%20%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D%2060%25;Digital%20Forensics%20%20%20%20%20%20%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D%2075%25;OSINT%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D%2085%25;Cryptography%20%20%20%20%20%20%20%20%20%20%20%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D%2085%25;Binary%20Exploitation%20%20%20%20%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D%2050%25;Matrix%20ready%20%E2%86%92%20Web%20%C2%B7%20PrivEsc%20%C2%B7%20Forensics%20%C2%B7%20OSINT%20%C2%B7%20Crypto%20%C2%B7%20BinExp" alt="Animated CTF Focus Areas" />
+</a>
+
+</div>
 
 
 
