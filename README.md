@@ -1,5 +1,59 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:e94560&height=190&section=header&text=Muhammad%20Iqbal%20Latif&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Student%20%7C%20Red%20Team%20%7C%20CTF%20Player%20%7C%20Islamabad&descAlignY=58&descSize=15"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=e94560&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Cyber+Security+Student;%24+nmap+-sV+target+%E2%86%92+Scanning...;%24+msfconsole+%E2%86%92+Exploit+loaded;%24+cat+flag.txt+%E2%86%92+FLAG_CAPTURED;%24+.%2Frun_ctf.sh+%E2%86%92+Challenge+solved;%24+echo+%22Red+Team+%7C+CTF+%7C+SOC%22" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:fa23-bct-026@isbstudent.comsats.edu.pk">
+  <img src="https://img.shields.io/badge/Gmail-fa23--bct--026-e94560?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22" alt="Email" />
+</a>
+&nbsp;
+<a href="https://tryhackme.com">
+  <img src="https://img.shields.io/badge/TryHackMe-Top%201%E2%80%935%25%20Global-e94560?style=flat-square&logo=tryhackme&logoColor=white&labelColor=161b22" alt="TryHackMe" />
+</a>
+&nbsp;
+<a href="https://hackthebox.com">
+  <img src="https://img.shields.io/badge/HackTheBox-Active%20Player-9FEF00?style=flat-square&logo=hackthebox&logoColor=black&labelColor=161b22" alt="Hack The Box" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Islamabad-Pakistan-8b949e?style=flat-square&logo=googlemaps&logoColor=white&labelColor=161b22" alt="Location" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=gptiqbal88&label=Profile%20Views&color=e94560&style=flat-square" alt="Profile Views" />
+
+</div>
+
+---
+
+## `> whoami`
+
+I am a **Cyber Security student at COMSATS University Islamabad**, specializing in **offensive security**, **red teaming**, **penetration testing**, and **SOC operations**.
+
+I spend my time breaking into systems — legally — to understand how they fail and how to build them better. My work covers web applications, networks, privilege escalation, binary exploitation, forensics, OSINT, and CTF-style security challenges.
+
+I actively compete in CTFs, help organize cyber security events, and am currently building an **AI-powered npm supply chain security system** as my final year project. I hold a **CEH certification** and am completing **CRTA**.
+
+```txt
+🎓  B.S. Cyber Security — COMSATS University Islamabad
+    CGPA: 3.45 / 4.00 · Expected Graduation: 2027
+
+🔴  Focus Areas
+    Red Teaming · Penetration Testing · SOC Operations
+
+🏆  TryHackMe
+    Top 1–5% Globally · Web Exploitation · Forensics · Privilege Escalation
+
+⚔️  Hack The Box
+    Penetration Testing · Binary Exploitation · OSINT
+
+🎯  Cyber-Hacktivators Club
+    CTF Technical & Organizing Team · Islamabad<div align="center">
+
 <!-- Custom SVG animated header — no capsule-render -->
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="0" height="0"/>
 
