@@ -28,7 +28,7 @@
 
 </div>
 
-
+---
 
 ## `> whoami`
 
@@ -55,7 +55,7 @@ I actively compete in CTFs, help organize cyber security events, and am currentl
     CTF Technical & Organizing Team · Islamabad
 ```
 
-
+---
 
 ## `> cat ctf_achievements.txt`
 
@@ -95,7 +95,7 @@ I actively compete in CTFs, help organize cyber security events, and am currentl
 
 </div>
 
-
+---
 
 ## `> ls ./projects`
 
@@ -155,7 +155,7 @@ Co-organized a multi-university CTF with 50+ teams, with 30 teams advancing to o
 </tr>
 </table>
 
-
+---
 
 ## `> cat skills.txt`
 
@@ -205,35 +205,75 @@ Co-organized a multi-university CTF with 50+ teams, with 30 teams advancing to o
 | 🔬 **Reverse Engineering** | Ghidra · IDA Pro · Binary Exploitation |
 | 🧠 **Core Domains** | Penetration Testing · Red Teaming · Cryptography · Incident Response · Supply Chain Security |
 
-
+---
 
 ## `> certifications --list`
 
-```bash
-[✔]  Certified Ethical Hacker (CEH)        MetaPi Technologies        Certified
-[~]  Certified Red Team Analyst (CRTA)     CyberWarFare Labs          Exam Pending
-[★]  TryHackMe — Top 1–5% Global           Web · Forensics · PrivEsc  Ongoing
-[★]  Hack The Box                          Pen Test · BinExp · OSINT  Ongoing
-[+]  OWLSEC Official CTF Team              Competitive Security       Team Member
-```
-
-
-
-## `> github_activity`
-
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Iqbal-Latif&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff" alt="GitHub Stats" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=1800&pause=800&color=e94560&center=true&vCenter=true&width=780&height=45&lines=%5B%E2%9C%94%5D+CEH+Certified+%E2%86%92+MetaPi+Technologies;%5B~%5D+CRTA+%E2%86%92+CyberWarFare+Labs+%2F+Exam+Pending;%5B%E2%98%85%5D+TryHackMe+%E2%86%92+Top+1%E2%80%935%25+Global;%5B%E2%98%85%5D+Hack+The+Box+%E2%86%92+PenTest+%C2%B7+BinExp+%C2%B7+OSINT;%5B%2B%5D+OWLSEC+%E2%86%92+Official+CTF+Team+Member" alt="Animated Certifications" />
+</a>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Iqbal-Latif&theme=radical&hide_border=true&background=0D1117&ring=E94560&fire=E94560&currStreakLabel=E94560" alt="GitHub Streak" />
+<br/>
 
-<br/><br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Iqbal-Latif&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff" alt="Top Languages" />
+<table>
+<tr>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/CEH-Certified-e94560?style=for-the-badge&logo=securityscorecard&logoColor=white&labelColor=161b22" alt="CEH Certified" />
+<br/>
+<b>Certified Ethical Hacker</b>
+<br/>
+<sub>MetaPi Technologies</sub>
+<br/>
+<sub>Certified</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/CRTA-Exam%20Pending-6e40c9?style=for-the-badge&logo=target&logoColor=white&labelColor=161b22" alt="CRTA Exam Pending" />
+<br/>
+<b>Certified Red Team Analyst</b>
+<br/>
+<sub>CyberWarFare Labs</sub>
+<br/>
+<sub>Exam Pending</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://tryhackme.com/dashboard">
+<img src="https://img.shields.io/badge/TryHackMe-Top%201%E2%80%935%25-e94560?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=161b22" alt="TryHackMe Top 1-5%" />
+</a>
+<br/>
+<b>TryHackMe</b>
+<br/>
+<sub>Web · Forensics · PrivEsc</sub>
+<br/>
+<sub>Ongoing</sub>
+</td>
+<td align="center" width="20%">
+<a href="https://app.hackthebox.com/users/1993256">
+<img src="https://img.shields.io/badge/Hack%20The%20Box-Active-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=161b22" alt="Hack The Box Active" />
+</a>
+<br/>
+<b>Hack The Box</b>
+<br/>
+<sub>PenTest · BinExp · OSINT</sub>
+<br/>
+<sub>Ongoing</sub>
+</td>
+<td align="center" width="20%">
+<img src="https://img.shields.io/badge/OWLSEC-CTF%20Team-0f3460?style=for-the-badge&logo=hackthebox&logoColor=white&labelColor=161b22" alt="OWLSEC CTF Team" />
+<br/>
+<b>Official CTF Team</b>
+<br/>
+<sub>Competitive Security</sub>
+<br/>
+<sub>Team Member</sub>
+</td>
+</tr>
+</table>
 
 </div>
 
-
+---
 
 ## `> current_focus`
 
@@ -246,7 +286,7 @@ Co-organized a multi-university CTF with 50+ teams, with 30 teams advancing to o
 [2026] SOC detection and response workflows
 ```
 
-
+---
 
 ## `> connect`
 
