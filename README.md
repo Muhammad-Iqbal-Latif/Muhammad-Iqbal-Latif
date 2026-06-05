@@ -3,7 +3,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:e94560&height=190&section=header&text=Muhammad%20Iqbal%20Latif&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cyber%20Security%20Student%20%7C%20Red%20Team%20%7C%20CTF%20Player%20%7C%20Islamabad&descAlignY=58&descSize=15" alt="Muhammad Iqbal Latif Header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=e94560&center=true&vCenter=true&width=760&lines=%24+whoami+%E2%86%92+Cyber+Security+Student;%24+nmap+-sV+target+%E2%86%92+Scanning...;%24+msfconsole+%E2%86%92+Exploit+loaded;%24+cat+flag.txt+%E2%86%92+FLAG_CAPTURED;%24+.%2Frun_ctf.sh+%E2%86%92+Challenge+solved;%24+echo+%22Red+Team+%7C+CTF+%7C+SOC%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2800&pause=900&color=e94560&center=true&vCenter=true&width=780&lines=%24+whoami+%E2%86%92+Cyber+Security+Student;%24+nmap+-sV+target+%E2%86%92+Scanning...;%24+msfconsole+%E2%86%92+Exploit+loaded;%24+cat+flag.txt+%E2%86%92+FLAG_CAPTURED;%24+.%2Frun_ctf.sh+%E2%86%92+Challenge+solved;%24+echo+%22Red+Team+%7C+CTF+%7C+SOC%22" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=420&pause=1&color=8b949e&center=true&vCenter=true&width=700&lines=%5B%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Initializing+toolkit...;%5B%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Loading+enumeration+modules...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Preparing+payloads...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Tuning+scanners...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Collecting+OSINT...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%E2%96%91%5D+Mounting+forensics+workspace...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%E2%96%91%5D+Loading+reverse+engineering+suite...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%E2%96%91%5D+Calibrating+exploitation+stack...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%91%5D+Almost+ready...;%5B%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%5D+Offensive+stack+ready" alt="Animated Loading Bar" />
 </a>
 
 <br/><br/>
@@ -28,13 +34,13 @@
 
 </div>
 
----
+
 
 ## `> whoami`
 
 I am a **Cyber Security student at COMSATS University Islamabad**, specializing in **offensive security**, **red teaming**, **penetration testing**, and **SOC operations**.
 
-I spend my time breaking into systems — legally — to understand how they fail and how to build them better. My work covers web applications, networks, privilege escalation, binary exploitation, forensics, OSINT, and CTF-style security challenges.
+I spend my time breaking into systems — legally — to understand how they fail and how to build them better. My work covers web applications, networks, privilege escalation, binary exploitation, digital forensics, OSINT, and CTF-style security challenges.
 
 I actively compete in CTFs, help organize cyber security events, and am currently building an **AI-powered npm supply chain security system** as my final year project. I hold a **CEH certification** and am completing **CRTA**.
 
@@ -46,7 +52,7 @@ I actively compete in CTFs, help organize cyber security events, and am currentl
     Red Teaming · Penetration Testing · SOC Operations
 
 🏆  TryHackMe
-    Top 1-5% Globally · Web Exploitation · Forensics · Privilege Escalation
+    Top 1–5% Globally · Web Exploitation · Forensics · Privilege Escalation
 
 ⚔️  Hack The Box
     Penetration Testing · Binary Exploitation · OSINT
@@ -55,7 +61,7 @@ I actively compete in CTFs, help organize cyber security events, and am currentl
     CTF Technical & Organizing Team · Islamabad
 ```
 
----
+
 
 ## `> cat ctf_achievements.txt`
 
@@ -90,15 +96,15 @@ I actively compete in CTFs, help organize cyber security events, and am currentl
 ```txt
 CTF Focus Areas
 
-Web Exploitation       ████████████████████░   95%
-Privilege Escalation   ██████████████████░░░   85%
-Digital Forensics      ████████████████░░░░░   80%
-OSINT                  ████████████████░░░░░   80%
-Cryptography           ██████████████░░░░░░░   70%
-Binary Exploitation    █████████████░░░░░░░░   65%
+Web Exploitation       ██████████████░░░░░░   70%
+Privilege Escalation   ████████████░░░░░░░░   60%
+Digital Forensics      ███████████████░░░░░   75%
+OSINT                  █████████████████░░░   85%
+Cryptography           █████████████████░░░   85%
+Binary Exploitation    ██████████░░░░░░░░░░   50%
 ```
 
----
+
 
 ## `> ls ./projects`
 
@@ -147,7 +153,7 @@ Locally hosted, full-stack browser-based gaming platform built from scratch with
 
 ### 🏴 CTF Challenges — Cyber-Hacktivators Club
 
-`2024-Present`
+`2024–Present`
 
 Co-organized a multi-university CTF with 50+ teams, with 30 teams advancing to onsite finals. Designed OSINT and Forensics challenges and administered the CTFd platform.
 
@@ -158,72 +164,69 @@ Co-organized a multi-university CTF with 50+ teams, with 30 teams advancing to o
 </tr>
 </table>
 
----
+
 
 ## `> cat skills.txt`
 
 <div align="center">
 
-### Offensive Security
-
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap" />
-<img src="https://img.shields.io/badge/OpenVAS-3C9D55?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="OpenVAS" />
-
-<br/><br/>
-
-### Forensics, SOC & Analysis
-
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Ghidra-BB0000?style=for-the-badge&logo=ghidra&logoColor=white" alt="Ghidra" />
-<img src="https://img.shields.io/badge/IDA%20Pro-2B2B2B?style=for-the-badge&logo=hexo&logoColor=white" alt="IDA Pro" />
-<img src="https://img.shields.io/badge/Volatility-6E40C9?style=for-the-badge&logo=virustotal&logoColor=white" alt="Volatility" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk" />
-
-<br/><br/>
-
-### Systems & Platforms
+### Operating Systems
 
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory" />
 
 <br/><br/>
 
-### CTF & Labs
+### Vulnerability Testing & Offensive Security
 
-<img src="https://img.shields.io/badge/TryHackMe-e94560?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-<img src="https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box" />
-<img src="https://img.shields.io/badge/CTFd-6e40c9?style=for-the-badge&logo=target&logoColor=white" alt="CTFd" />
-<img src="https://img.shields.io/badge/OSINT-0f3460?style=for-the-badge&logo=hackthebox&logoColor=white" alt="OSINT" />
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
+<img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Nmap" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+<img src="https://img.shields.io/badge/OpenVAS-3C9D55?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="OpenVAS" />
+<img src="https://img.shields.io/badge/Web%20Exploitation-E94560?style=for-the-badge" alt="Web Exploitation" />
+<img src="https://img.shields.io/badge/Privilege%20Escalation-6E40C9?style=for-the-badge" alt="Privilege Escalation" />
+
+<br/><br/>
+
+### OSINT & Digital Forensics
+
+<img src="https://img.shields.io/badge/OSINT%20Framework-0f3460?style=for-the-badge" alt="OSINT Framework" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Volatility-6E40C9?style=for-the-badge" alt="Volatility" />
+<img src="https://img.shields.io/badge/Digital%20Forensics-8B949E?style=for-the-badge" alt="Digital Forensics" />
+
+<br/><br/>
+
+### Reverse Engineering
+
+<img src="https://img.shields.io/badge/Ghidra-BB0000?style=for-the-badge" alt="Ghidra" />
+<img src="https://img.shields.io/badge/IDA%20Pro-2B2B2B?style=for-the-badge" alt="IDA Pro" />
+<img src="https://img.shields.io/badge/Binary%20Exploitation-E94560?style=for-the-badge" alt="Binary Exploitation" />
+<img src="https://img.shields.io/badge/Cryptography-0f3460?style=for-the-badge" alt="Cryptography" />
 
 </div>
 
 | Category | Stack |
 |:---|:---|
-| 🔴 **Offensive Security** | Burp Suite · Metasploit · Nmap · OpenVAS · Web Exploitation · Privilege Escalation |
-| 🔬 **Reverse Engineering & Forensics** | Ghidra · IDA Pro · Wireshark · Volatility · Digital Forensics |
-| 📊 **SIEM & SOC** | Splunk · OSINT Framework · Incident Response · Threat Analysis |
-| 🖥️ **Systems** | Kali Linux · Fedora · Ubuntu · Arch Linux · TCP/IP Networking |
-| 🧠 **Domains** | Penetration Testing · Red Teaming · Active Directory · Cryptography · Supply Chain Security |
+| 🐧 **Operating Systems** | Linux · Fedora |
+| 🔴 **Vulnerability Testing** | Burp Suite · Nmap · Metasploit · OpenVAS · Web Exploitation · Privilege Escalation |
+| 🕵️ **OSINT & Digital Forensics** | OSINT Framework · Wireshark · Volatility · Digital Forensics |
+| 🔬 **Reverse Engineering** | Ghidra · IDA Pro · Binary Exploitation |
+| 🧠 **Core Domains** | Penetration Testing · Red Teaming · Cryptography · Incident Response · Supply Chain Security |
 
----
+
 
 ## `> certifications --list`
 
 ```bash
 [✔]  Certified Ethical Hacker (CEH)        MetaPi Technologies        Certified
 [~]  Certified Red Team Analyst (CRTA)     CyberWarFare Labs          Exam Pending
-[★]  TryHackMe — Top 1-5% Global           Web · Forensics · PrivEsc  Ongoing
+[★]  TryHackMe — Top 1–5% Global           Web · Forensics · PrivEsc  Ongoing
 [★]  Hack The Box                          Pen Test · BinExp · OSINT  Ongoing
 [+]  OWLSEC Official CTF Team              Competitive Security       Team Member
 ```
 
----
+
 
 ## `> github_activity`
 
@@ -239,7 +242,7 @@ Co-organized a multi-university CTF with 50+ teams, with 30 teams advancing to o
 
 </div>
 
----
+
 
 ## `> current_focus`
 
@@ -252,7 +255,7 @@ Co-organized a multi-university CTF with 50+ teams, with 30 teams advancing to o
 [2026] SOC detection and response workflows
 ```
 
----
+
 
 ## `> connect`
 
