@@ -1,72 +1,221 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:e94560&height=160&section=header&text=Muhammad%20Iqbal%20Latif&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+<!-- Custom SVG animated header — no capsule-render -->
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" width="0" height="0"/>
 
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="100%" style="stop-color:#161b22"/>
+    </linearGradient>
+    <linearGradient id="lineGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#e94560;stop-opacity:0"/>
+      <stop offset="50%" style="stop-color:#e94560;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#e94560;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .name { font: 700 38px 'Courier New', monospace; fill: #ffffff; letter-spacing: 3px; }
+      .sub  { font: 400 13px 'Courier New', monospace; fill: #8b949e; letter-spacing: 5px; }
+      .cursor { animation: blink 1s step-end infinite; }
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+      .scanline { animation: scan 3s linear infinite; }
+      @keyframes scan { 0%{transform:translateY(-180px)} 100%{transform:translateY(180px)} }
+      .fadein { animation: fadeIn 1.5s ease-out forwards; opacity: 0; }
+      .fadein2 { animation: fadeIn 1.5s ease-out 0.6s forwards; opacity: 0; }
+      @keyframes fadeIn { to { opacity: 1; } }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="180" fill="url(#bg)" rx="12"/>
+
+  <!-- Scanline effect -->
+  <rect class="scanline" width="900" height="2" fill="#e94560" opacity="0.05"/>
+
+  <!-- Grid lines -->
+  <line x1="0" y1="60" x2="900" y2="60" stroke="#1c2128" stroke-width="1"/>
+  <line x1="0" y1="120" x2="900" y2="120" stroke="#1c2128" stroke-width="1"/>
+  <line x1="300" y1="0" x2="300" y2="180" stroke="#1c2128" stroke-width="1"/>
+  <line x1="600" y1="0" x2="600" y2="180" stroke="#1c2128" stroke-width="1"/>
+
+  <!-- Accent line top -->
+  <rect x="0" y="0" width="900" height="3" fill="url(#lineGrad)" rx="2"/>
+  <!-- Accent line bottom -->
+  <rect x="0" y="177" width="900" height="3" fill="url(#lineGrad)" rx="2"/>
+
+  <!-- Corner brackets -->
+  <text x="18" y="28" font-family="Courier New" font-size="18" fill="#e94560" opacity="0.7">┌─</text>
+  <text x="850" y="28" font-family="Courier New" font-size="18" fill="#e94560" opacity="0.7">─┐</text>
+  <text x="18" y="170" font-family="Courier New" font-size="18" fill="#e94560" opacity="0.7">└─</text>
+  <text x="850" y="170" font-family="Courier New" font-size="18" fill="#e94560" opacity="0.7">─┘</text>
+
+  <!-- Prompt symbol -->
+  <text x="55" y="85" font-family="Courier New" font-size="22" fill="#e94560" filter="url(#glow)" class="fadein">❯</text>
+
+  <!-- Name -->
+  <text x="85" y="85" class="name fadein" filter="url(#glow)">Muhammad Iqbal Latif</text>
+
+  <!-- Blinking cursor -->
+  <text x="593" y="85" font-family="Courier New" font-size="30" fill="#e94560" class="cursor fadein">_</text>
+
+  <!-- Subtitle -->
+  <text x="85" y="118" class="sub fadein2">CYBER SECURITY · RED TEAM · CTF · ISLAMABAD</text>
+
+  <!-- Right side decorative -->
+  <text x="720" y="55" font-family="Courier New" font-size="10" fill="#30363d">// OFFENSIVE SECURITY</text>
+  <text x="733" y="70" font-family="Courier New" font-size="10" fill="#30363d">// PENETRATION TESTING</text>
+  <text x="748" y="85" font-family="Courier New" font-size="10" fill="#30363d">// CRYPTOGRAPHY</text>
+  <text x="760" y="100" font-family="Courier New" font-size="10" fill="#30363d">// DIGITAL FORENSICS</text>
+</svg>
+
+<!-- Typing SVG — multi-line terminal style -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=e94560&center=true&vCenter=true&width=500&lines=Cyber+Security+Student+%40+COMSATS;Red+Teamer+%26+Penetration+Tester;Top+1–5%25+on+TryHackMe+Globally;CTF+Player+%26+Challenge+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=2800&pause=900&color=e94560&center=true&vCenter=true&width=480&lines=%24+whoami+→+Cyber+Security+Engineer;%24+nmap+-sV+target+→+Scanning...;%24+msfconsole+→+Exploit+loaded;%24+cat+flag.txt+→+HTB%7BFLAG_CAPTURED%7D;%24+./run_ctf.sh+→+Challenge+solved+✓" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Email](https://img.shields.io/badge/Email-fa23--bct--026%40isbstudent.comsats.edu.pk-e94560?style=flat-square&logo=gmail&logoColor=white)](mailto:fa23-bct-026@isbstudent.comsats.edu.pk)
-[![Location](https://img.shields.io/badge/Islamabad-Pakistan-0f3460?style=flat-square&logo=google-maps&logoColor=white)]()
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Top%201–5%25-red?style=flat-square&logo=tryhackme&logoColor=white)](https://tryhackme.com)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-Active-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://hackthebox.com)
+<!-- Badges — clean row -->
+<a href="mailto:fa23-bct-026@isbstudent.comsats.edu.pk">
+  <img src="https://img.shields.io/badge/─────────────────────────────────────────-0d1117?style=flat-square&labelColor=0d1117" height="1"/></a>
+
+<br/>
+
+[![Email](https://img.shields.io/badge/gmail-fa23--bct--026-e94560?style=flat-square&logo=gmail&logoColor=white&labelColor=161b22)](mailto:fa23-bct-026@isbstudent.comsats.edu.pk)
+&nbsp;
+[![TryHackMe](https://img.shields.io/badge/tryhackme-Top%201–5%25%20Global-e94560?style=flat-square&logo=tryhackme&logoColor=white&labelColor=161b22)](https://tryhackme.com)
+&nbsp;
+[![HackTheBox](https://img.shields.io/badge/hackthebox-Active%20Player-9FEF00?style=flat-square&logo=hackthebox&logoColor=black&labelColor=161b22)](https://hackthebox.com)
+&nbsp;
+[![Location](https://img.shields.io/badge/📍-Islamabad%2C%20Pakistan-8b949e?style=flat-square&labelColor=161b22)]()
 
 </div>
 
+<br/>
 
+## `> whoami`
 
-## About Me
+I'm a Cyber Security student at COMSATS University Islamabad, specializing in offensive security. I spend my time breaking into systems — legally — to understand how they fail, and how to build them better.
 
-I'm a Cyber Security student at COMSATS University Islamabad with a deep focus on offensive security. I spend most of my time breaking things — web apps, networks, binaries — to understand how they fail and how to defend them better.
+I compete in CTFs, help organize them, and am currently building an AI-powered npm supply chain security system as my final year project. I hold a CEH certification and am completing CRTA.
 
-Outside of coursework, I compete in CTFs, contribute to organizing them, and am currently building an AI-powered npm supply chain security tool for my final year project. I hold a CEH certification and am working toward CRTA.
+```
+🎓  B.S. Cyber Security — COMSATS University Islamabad  [CGPA: 3.45/4.00 · Expected 2027]
+🔴  Focus: Red Teaming · Penetration Testing · SOC Operations
+🏆  TryHackMe — Top 1–5% Globally  [Web Exploitation · Forensics · Privilege Escalation]
+⚔️  Hack The Box — Pen Testing · Binary Exploitation · OSINT
+🎯  CTF Tech & Organizing Team — Cyber-Hacktivators Club (CHC), Islamabad
+```
 
-- 🎓 B.S. Cyber Security — COMSATS University Islamabad *(CGPA: 3.45 / 4.00, Expected 2027)*
-- 🔴 Specializing in Red Teaming, Penetration Testing & SOC Operations
-- 🏆 Top 1–5% globally on TryHackMe across Web Exploitation, Forensics & Privilege Escalation
-- ⚔️ Active on Hack The Box — Pen Testing, Binary Exploitation, OSINT
-- 🎯 CTF Tech & Organizing Team — Cyber-Hacktivators Club (CHC)
+<br/>
 
+## `> ls ./projects`
 
-## Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**🤖 AI-Powered npm Supply Chain Security System** *(Final Year Project, 2026)*
-> Detects malicious package updates using differential code analysis, attack-chain scoring, and ML-based risk evaluation. Includes automated compliance mapping for real-time threat assessment.
+### 🤖 AI-Powered npm Supply Chain Security
+`Final Year Project · 2026`
 
-**♟️ Chess Encryption-Based Document Management System** *(2024)*
-> Secure document storage system built around a custom cipher that uses chess-piece movement patterns as encryption keys.
+Detects malicious package updates via differential code analysis, attack-chain scoring, and ML-based risk evaluation. Real-time automated compliance mapping for supply chain threats.
 
-**🎮 Local Gaming Platform** *(2025)*
-> Full-stack browser-based gaming platform hosted locally, built with Node.js from scratch.
+![ML](https://img.shields.io/badge/ML-Risk%20Engine-e94560?style=flat-square&labelColor=161b22)
+![Node](https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=161b22)
+![Security](https://img.shields.io/badge/Supply%20Chain-Security-6e40c9?style=flat-square&labelColor=161b22)
 
+</td>
+<td width="50%" valign="top">
 
+### ♟️ Chess Encryption Document System
+`2024`
 
-## Skills
+Secure document storage using a custom cipher derived from chess-piece movement patterns as encryption keys — a novel blend of combinatorial theory and applied cryptography.
 
-**Tools**
-`Burp Suite` `Metasploit` `Nmap` `OpenVAS` `Ghidra` `IDA Pro` `Wireshark` `Splunk` `OSINT Framework`
+![Crypto](https://img.shields.io/badge/Custom-Cipher-e94560?style=flat-square&labelColor=161b22)
+![Storage](https://img.shields.io/badge/Secure-Storage-0f3460?style=flat-square&labelColor=161b22)
 
-**Domains**
-`Penetration Testing` `Red Teaming` `SOC Operations` `Incident Response` `SIEM` `Cryptography` `Active Directory`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Systems**
-`Kali Linux` `Ubuntu` `Arch Linux` `Fedora` `TCP/IP Networking` `Node.js`
+### 🎮 Local Gaming Platform
+`2025`
 
+Locally-hosted, full-stack browser-based gaming platform built from scratch with Node.js — complete frontend and backend implementation.
 
+![Node](https://img.shields.io/badge/Node.js-Full%20Stack-339933?style=flat-square&logo=nodedotjs&logoColor=white&labelColor=161b22)
+![Web](https://img.shields.io/badge/Browser-Based-0f3460?style=flat-square&labelColor=161b22)
 
-## Certifications
+</td>
+<td width="50%" valign="top">
 
-| | Certification | Issuer | Status |
-|---|---|---|---|
-| 🛡️ | Certified Ethical Hacker (CEH) | MetaPi Technologies | ✅ Certified |
-| ⚔️ | Certified Red Team Analyst (CRTA) | CyberWarFare Labs | 🔄 Exam Pending |
-| 🌐 | TryHackMe Top 1–5% Global | TryHackMe | 🏆 Ongoing |
-| 💀 | Hack The Box | HTB | 🔥 Ongoing |
+### 🏴 CTF Challenges — Cyber-Hacktivators Club
+`2024–Present`
 
+Co-organized a multi-university CTF with 50+ teams, 30 advancing to onsite finals. Designed OSINT & Forensics challenges and administered the full CTFd platform.
+
+![CTF](https://img.shields.io/badge/OSINT-Forensics-e94560?style=flat-square&labelColor=161b22)
+![CTFd](https://img.shields.io/badge/CTFd-Admin-6e40c9?style=flat-square&labelColor=161b22)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `> cat skills.txt`
+
+**Offensive & Analysis Tools**
+
+[![My Skills](https://skillicons.dev/icons?i=kali,linux,bash,python,nodejs&theme=dark)](https://skillicons.dev)
+
+| Category | Stack |
+|:---|:---|
+| 🔴 **Offensive** | Burp Suite · Metasploit · Nmap · OpenVAS |
+| 🔬 **RE & Forensics** | Ghidra · IDA Pro · Wireshark · Volatility |
+| 📊 **SIEM & SOC** | Splunk · OSINT Framework |
+| 🖥️ **Systems** | Kali · Ubuntu · Arch · Fedora · TCP/IP |
+| 🧠 **Domains** | Penetration Testing · Red Teaming · Active Directory · Cryptography · Incident Response |
+
+<br/>
+
+## `> certifications --list`
+
+```bash
+[✔]  Certified Ethical Hacker (CEH)          MetaPi Technologies       2024
+[~]  Certified Red Team Analyst (CRTA)        CyberWarFare Labs          2026  ← Exam Pending
+[★]  TryHackMe — Top 1–5% Global             Web · Forensics · PrivEsc  Ongoing
+[★]  Hack The Box                             Pen Test · BinExp · OSINT  Ongoing
+```
+
+<br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,100:0d1117&height=100&section=footer&animation=fadeIn"/>
-  <sub>Muhammad Iqbal Latif · Islamabad, Pakistan</sub>
+
+<!-- Animated footer SVG -->
+<svg width="900" height="60" viewBox="0 0 900 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="30%" style="stop-color:#e94560"/>
+      <stop offset="70%" style="stop-color:#e94560"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+    <style>
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+      @keyframes pulse { 0%,100%{opacity:0.3} 50%{opacity:1} }
+    </style>
+  </defs>
+  <rect width="900" height="1" y="0" fill="url(#footerGrad)"/>
+  <text x="450" y="38" text-anchor="middle" font-family="Courier New" font-size="12" fill="#e94560" class="pulse">[ Muhammad Iqbal Latif · Islamabad, Pakistan · 2025 ]</text>
+  <rect width="900" height="1" y="59" fill="url(#footerGrad)"/>
+</svg>
+
 </div>
