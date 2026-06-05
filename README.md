@@ -15,7 +15,7 @@
 
 </div>
 
----
+
 
 ## About Me
 
@@ -29,7 +29,6 @@ Outside of coursework, I compete in CTFs, contribute to organizing them, and am 
 - ⚔️ Active on Hack The Box — Pen Testing, Binary Exploitation, OSINT
 - 🎯 CTF Tech & Organizing Team — Cyber-Hacktivators Club (CHC)
 
----
 
 ## Projects
 
@@ -42,7 +41,7 @@ Outside of coursework, I compete in CTFs, contribute to organizing them, and am 
 **🎮 Local Gaming Platform** *(2025)*
 > Full-stack browser-based gaming platform hosted locally, built with Node.js from scratch.
 
----
+
 
 ## Skills
 
@@ -55,7 +54,7 @@ Outside of coursework, I compete in CTFs, contribute to organizing them, and am 
 **Systems**
 `Kali Linux` `Ubuntu` `Arch Linux` `Fedora` `TCP/IP Networking` `Node.js`
 
----
+
 
 ## Certifications
 
@@ -66,7 +65,6 @@ Outside of coursework, I compete in CTFs, contribute to organizing them, and am 
 | 🌐 | TryHackMe Top 1–5% Global | TryHackMe | 🏆 Ongoing |
 | 💀 | Hack The Box | HTB | 🔥 Ongoing |
 
----
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e94560,100:0d1117&height=100&section=footer&animation=fadeIn"/>
