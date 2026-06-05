@@ -28,7 +28,7 @@
 
 </div>
 
----
+
 
 ## `> whoami`
 
@@ -55,7 +55,7 @@ I actively compete in CTFs, help organize cyber security events, and am currentl
     CTF Technical & Organizing Team · Islamabad
 ```
 
----
+
 
 ## `> cat ctf_achievements.txt`
 
@@ -95,7 +95,7 @@ I actively compete in CTFs, help organize cyber security events, and am currentl
 
 </div>
 
----
+
 
 ## `> ls ./projects`
 
@@ -155,7 +155,7 @@ Co-organized a multi-university CTF with 50+ teams, with 30 teams advancing to o
 </tr>
 </table>
 
----
+
 
 ## `> cat skills.txt`
 
@@ -205,7 +205,7 @@ Co-organized a multi-university CTF with 50+ teams, with 30 teams advancing to o
 | 🔬 **Reverse Engineering** | Ghidra · IDA Pro · Binary Exploitation |
 | 🧠 **Core Domains** | Penetration Testing · Red Teaming · Cryptography · Incident Response · Supply Chain Security |
 
----
+
 
 ## `> certifications --list`
 
@@ -273,20 +273,104 @@ Co-organized a multi-university CTF with 50+ teams, with 30 teams advancing to o
 
 </div>
 
----
+
+
+## `> github_streak`
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Iqbal-Latif&theme=radical&hide_border=true&background=0D1117&ring=E94560&fire=E94560&currStreakLabel=E94560&sideLabels=E94560&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+
+</div>
+
+
 
 ## `> current_focus`
 
-```txt
-[2026] AI-powered npm supply chain threat detection
-[2026] CRTA preparation
-[2026] Advanced web exploitation
-[2026] Active Directory attack paths
-[2026] CTF challenge development
-[2026] SOC detection and response workflows
-```
+<div align="center">
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=1800&pause=700&color=e94560&center=true&vCenter=true&width=780&height=45&lines=2026+%E2%86%92+AI-powered+npm+supply+chain+threat+detection;2026+%E2%86%92+CRTA+preparation+and+red+team+methodology;2026+%E2%86%92+Advanced+web+exploitation+practice;2026+%E2%86%92+Active+Directory+attack+paths;2026+%E2%86%92+CTF+challenge+development;2026+%E2%86%92+SOC+detection+and+response+workflows" alt="Current Focus Animation" />
+</a>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Supply%20Chain%20Security-npm%20Threat%20Detection-e94560?style=for-the-badge&labelColor=161b22" alt="Supply Chain Security" />
+
+<br/>
+
+<b>AI-Powered npm Security</b>
+
+<sub>Differential analysis · risk scoring · malicious update detection</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Red%20Team-CRTA%20Preparation-6e40c9?style=for-the-badge&labelColor=161b22" alt="CRTA Preparation" />
+
+<br/>
+
+<b>Red Team Methodology</b>
+
+<sub>Attack paths · privilege escalation · operational discipline</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Web%20Exploitation-Advanced%20Practice-0f3460?style=for-the-badge&labelColor=161b22" alt="Web Exploitation" />
+
+<br/>
+
+<b>Advanced Web Exploitation</b>
+
+<sub>Recon · vulnerability chaining · exploit development</sub>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/Active%20Directory-Attack%20Paths-e94560?style=for-the-badge&labelColor=161b22" alt="Active Directory" />
+
+<br/>
+
+<b>Active Directory</b>
+
+<sub>Enumeration · lateral movement · privilege paths</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/CTF-Challenge%20Development-6e40c9?style=for-the-badge&labelColor=161b22" alt="CTF Challenge Development" />
+
+<br/>
+
+<b>CTF Engineering</b>
+
+<sub>OSINT · forensics · challenge design · CTFd operations</sub>
+
+</td>
+<td align="center" width="33%">
+
+<img src="https://img.shields.io/badge/SOC-Detection%20Engineering-0f3460?style=for-the-badge&labelColor=161b22" alt="SOC Detection Engineering" />
+
+<br/>
+
+<b>SOC Workflows</b>
+
+<sub>Detection logic · incident response · threat analysis</sub>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 ## `> connect`
 
