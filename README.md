@@ -275,11 +275,19 @@ Co-organized a multi-university CTF with 50+ teams, with 30 teams advancing to o
 
 
 
-## `> github_streak`
+
+
+## `> github_activity`
 
 <div align="center">
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Iqbal-Latif&theme=radical&hide_border=true&background=0D1117&ring=E94560&fire=E94560&currStreakLabel=E94560&sideLabels=E94560&dates=8B949E&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Iqbal-Latif&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=e94560&text_color=ffffff" alt="GitHub Stats" />
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Muhammad-Iqbal-Latif&theme=radical&hide_border=true&background=0D1117&ring=E94560&fire=E94560&currStreakLabel=E94560" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Iqbal-Latif&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=ffffff" alt="Top Languages" />
 
 </div>
 
